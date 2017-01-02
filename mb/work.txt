@@ -3,26 +3,29 @@
 #===================================================
 [DATA]
 dcia 道岔 
+dmji 惦记
 dmya 电压 
 gsqu 工区
+icui 超时
 jpuz 接收 
 like 理科
+limk 李明
 ljil 懒床
 lmso 联锁
+qmrf 前人
+swdt 思维导图
+tsui 同事
 tzdg 头灯
 uiys 实用 
+vids 制动
 viui 只是 
 vugv 主轨 
 vuyi 主义
+vvej 转辙机
 wjyb 万用表
+wwxb 微信
 xbnm 信念
 xiqi 吸起 
 xngv 小轨 
 zcyi 造诣
-dmji 惦记
-limk 李明
-wwxb 微信
-vids 制动
-icui 超时
-tsui 同事
-swdt 思维导图
+jiig 集成
