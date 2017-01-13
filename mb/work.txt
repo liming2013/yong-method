@@ -3,6 +3,7 @@
 #===================================================
 [DATA]
 bcwf 报文
+cexm 侧线
 dcia 道岔 
 dmji 惦记
 dmya 电压 
@@ -19,12 +20,14 @@ ljil 懒床
 lmso 联锁
 lpks 列控
 lxyz 两学一做
+rfwu 人物
 swdt 思维导图
 tsui 同事
 tzdg 头灯
 uiji 世纪
 uiwu 事物
 uiys 实用 
+vgxm 正线
 vids 制动
 vilq 直流
 viui 只是 
@@ -36,4 +39,3 @@ xbnm 信念
 xiqi 吸起 
 xngv 小轨 
 zcyi 造诣
-rfwu 人物
