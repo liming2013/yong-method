@@ -1,13 +1,5 @@
 #词库来源：小鹤双拼飞扬版——搜狗小鹤的挂接词库
-key=abcdefghijklmnopqrstuvwxyz
-len=4
-#自动上屏
-commit=0 0 0
-#auto_clear=4
-#编码提示
-hint=1
-#工作分词库，自己定义
-dicts=mb/work.txt
+#ouj以前为工作分词库，自己定义
 [DATA]
 bcwf 报文
 cexm 侧线
