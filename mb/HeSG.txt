@@ -8,13 +8,50 @@ commit=0 0 0
 hint=1
 #工作分词库，自己定义
 dicts=mb/work.txt
-#pinyin=1
-#split=2
-#pull=*
 [DATA]
-ouj $hour0:$min
+bcwf 报文
+cexm 侧线
+dcia 道岔 
+dmji 惦记
+dmya 电压 
+fhvf 仿真
+gsqu 工区
+icui 超时
+jiig 集成
+jpuz 接收 
+keqt 克缺
+like 理科
+limk 李明
+liyi 礼仪
+ljil 懒床
+lmso 联锁
+lpks 列控
+lxyz 两学一做
+rfwu 人物
+swdt 思维导图
+tsui 同事
+tzdg 头灯
+uiji 世纪
+uiwu 事物
+uiys 实用 
+vgxm 正线
+vids 制动
+vilq 直流
+viui 只是 
+vugv 主轨 
+vuyi 主义
+wjyb 万用表
+wwxb 微信
+xbnm 信念
+xiqi 吸起 
+xngv 小轨 
+zcyi 造诣
+ouj $hour0时$min分$sec秒
+ouj $hour0时$min分
 orq $yyyy年$mon月$day日
 orq $yyyy-$mon-$day
+olb 星期$WEEK
+onl 农历$RIQI
 a 啊
 a 按
 aa 阿

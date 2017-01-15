@@ -1,13 +1,20 @@
-#===================================================
-#本地码表:支持自定义词组 只支持gb18030
-#===================================================
+#pinyin=1
+#split=2
+#编码提示
+#引导键‘*’
+#万能键
+key=abcdefghijklmnopqrstuvwxyz
+len=63
+pull=*
+wildcard=?
+hint=1
+#dicts=mb/me.txt
+#user=E:\.yong\heyx.usr
+assist=* mb/hed.txt
+code_e2=p11+p12+p21+p22
+code_e3=p11+p21+p22+p31
+code_a4=p.1
 [DATA]
-ouj $hour0时$min分$sec秒
-ouj $hour0时$min分
-orq $yyyy年$mon月$day日
-orq $yyyy-$mon-$day
-olb 星期$WEEK
-onl 农历$RIQI
 a 啊
 a 按
 aa 阿
@@ -58474,40 +58481,3 @@ zzyy 诹
 zzz 走走
 zzzu 自作自受
 zzzz 走走
-bcwf 报文
-cexm 侧线
-dcia 道岔 
-dmji 惦记
-dmya 电压 
-fhvf 仿真
-gsqu 工区
-icui 超时
-jiig 集成
-jpuz 接收 
-keqt 克缺
-like 理科
-limk 李明
-liyi 礼仪
-ljil 懒床
-lmso 联锁
-lpks 列控
-lxyz 两学一做
-rfwu 人物
-swdt 思维导图
-tsui 同事
-tzdg 头灯
-uiji 世纪
-uiwu 事物
-uiys 实用 
-vgxm 正线
-vids 制动
-vilq 直流
-viui 只是 
-vugv 主轨 
-vuyi 主义
-wjyb 万用表
-wwxb 微信
-xbnm 信念
-xiqi 吸起 
-xngv 小轨 
-zcyi 造诣

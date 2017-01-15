@@ -9,9 +9,6 @@ commit=0 0 0
 hint=1
 #工作分词库，自己定义
 dicts=mb/work.txt
-#pinyin=1
-#split=2
-#pull=*
 [DATA]
 ouj $hour0时$min分$sec秒
 ouj $hour0时$min分
