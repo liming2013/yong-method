@@ -12,6 +12,12 @@ code_e2=p11+p12+p21+p22
 code_e3=p11+p21+p22+p31
 code_a4=p.1
 [DATA]
+ouj $hour0时$min分$sec秒
+ouj $hour0时$min分
+orq $yyyy年$mon月$day日
+orq $yyyy-$mon-$day
+olb 星期$WEEK
+onl 农历$RIQI
 a 啊
 aa 阿 腌 呵
 aaaa 啊啊
